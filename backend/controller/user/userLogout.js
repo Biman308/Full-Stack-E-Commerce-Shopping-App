@@ -18,4 +18,4 @@ async function userLogout(req,res){
 }
 
 
-module.exports = userLogout
+module.exports = userLogout;
